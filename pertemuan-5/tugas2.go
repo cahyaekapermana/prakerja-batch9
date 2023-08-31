@@ -1,3 +1,4 @@
+// tampilkan data dengan id 3
 package main
 
 import (

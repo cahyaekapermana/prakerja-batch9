@@ -1,3 +1,4 @@
+// Tampilkan all data
 package main
 
 import (
